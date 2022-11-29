@@ -1,0 +1,22 @@
+.mario-bg{
+
+    background: url("../img/f01.png") left bottom repeat-x,
+                url("../img/f02.png") left bottom no-repeat,
+                url("../img/f03.png") left top repeat-x;
+    background-color: #a4d3ff;
+}
+
+.div-1{
+    border: 4px outset blue;
+    width: 200px;
+    height: 100px;
+    
+}
+
+.div-2{
+    border: 4px outset red;
+    width: 500px;
+    height: 500px;
+    margin-left: 30px;
+    
+}

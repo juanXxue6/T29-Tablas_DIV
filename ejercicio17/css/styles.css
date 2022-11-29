@@ -1,0 +1,98 @@
+body{
+    background-image: url("../img/ac.jpg");
+}
+
+div.table-img {
+    width: 600px;
+    height: 450px;
+  }
+
+  .divTable.table-img .divTableCell, .divTable.table-img {
+    border: 12px solid #ffffff00;
+  }
+
+.divTable { 
+    display: table; 
+}
+.divTableRow {
+     display: table-row;
+     }
+
+.divTableCell { 
+    display: table-cell;
+
+}
+
+.divTableBody {
+     display: table-row-group;
+     /*background-color: white;*/
+    }
+
+
+.div1{
+    background-image: url("../img/back_mantel.jpg");
+}
+
+.div2{
+    background-image: url("../img/back_mantel.jpg");
+    background-clip: content-box;
+}
+
+.div3{
+    background-image: url("../img/back_mantel.jpg");
+    background-size: 100% 100%;
+}
+
+.div4{
+    background-image: url("../img/back_mantel.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-origin: content-box;
+}
+
+.div5{
+    background-image: url("../img/dh.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div6{
+    background-image: url("../img/dh.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: content-box;
+}
+
+.div7{
+    background-image: url("../img/dh_2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.div8{
+    background-image: url("../img/dh_3.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.div9{
+    background-image: linear-gradient(90deg, rgba(211,255,166,1) 0%, rgba(26,93,12,1) 100%);
+    background-repeat: no-repeat;
+}
+
+.div10{
+    background-image: linear-gradient(0deg, rgba(103,36,12,1) 6%, rgba(201,78,34,1) 31%, rgba(237,158,130,1) 100%);
+    background-repeat: no-repeat;
+}
+
+.div11{
+    background-image: linear-gradient(0deg, rgba(52,207,37,1) 0%, rgba(255,255,255,1) 100%);
+    background-repeat: no-repeat;
+}
+
+.div12{
+    background-image: linear-gradient(0deg, rgba(29,111,21,1) 0%, rgba(255,255,255,0) 100%);
+    background-repeat: no-repeat;
+}
